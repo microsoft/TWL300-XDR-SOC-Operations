@@ -1,0 +1,23 @@
+title: TechWorkshop L300 XDR SOC Operations
+description: In this course,...
+
+aux_links:
+  "XRD SOC Operations":
+    - "https://github.com/microsoft/TWL300-XDR-SOC-Operations/"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red

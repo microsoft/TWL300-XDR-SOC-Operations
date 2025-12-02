@@ -3,7 +3,7 @@ description: In this course,...
 theme: just-the-docs
 
 aux_links:
-  "XRD SOC Operations":
+  "XDR SOC Operations":
     - "https://github.com/microsoft/TWL300-XDR-SOC-Operations/"
 
 callouts_level: quiet # or loud

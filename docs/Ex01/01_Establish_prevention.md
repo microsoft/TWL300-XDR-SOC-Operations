@@ -15,9 +15,9 @@ has_children: true
 
 **Estimated time:** 90 minutes  
 
-===
+---
 
-## E01 CISO Overview - Scenario and goals  
+## CISO Overview - Scenario and goals  
 
 Zava Oil & Resources is expanding rapidly but has uneven coverage across email, endpoints, identities, and cloud apps. You need to create a single, defensible prevention baseline deployable this week, and executive visibility to prove risk reduction (Secure Score up, exposure down, MTTR down).  
 

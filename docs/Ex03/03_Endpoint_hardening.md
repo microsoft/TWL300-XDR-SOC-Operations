@@ -16,9 +16,9 @@ has_children: true
 
 **Estimated time:** 60 minutes  
 
-===  
+---
 
-## E03 CISO Overview - Scenario and goals 
+## ECISO Overview - Scenario and goals 
 
 Zava Oil & Resources recently experienced several endpoint-based security incidents caused by incomplete deployment of Microsoft Defender for Endpoint (MDE) and inconsistent Attack Surface Reduction (ASR) settings across devices.  
 

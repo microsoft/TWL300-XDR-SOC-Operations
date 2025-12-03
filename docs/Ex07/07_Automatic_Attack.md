@@ -15,7 +15,7 @@ has_children: true
 
 **Estimated time:** 40 minutes  
 
-===  
+---  
 
 ## CISO Overview - Scenario and goals
 
